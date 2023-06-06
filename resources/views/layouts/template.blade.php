@@ -117,6 +117,7 @@
                     <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
                         <i class="fas fa-download me-2"></i>
                          Mis Trabajos en GitHub
+                         Migos
                     </a>
                 </div>
             </div>
