@@ -142,7 +142,7 @@
                         <!-- To make this form functional, sign up at-->
                         <!-- https://startbootstrap.com/solution/contact-forms-->
                         <!-- to get an API token!-->
-                        <h4>jhonguzmanhernandez@gmail.com</h4>
+                        <h4>jjuanguzman@gmail.com</h4>
                         <!-- <form id="contactForm" data-sb-form-api-token="API_TOKEN">
 
                             <div class="form-floating mb-3">
