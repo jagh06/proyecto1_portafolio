@@ -116,12 +116,7 @@
                 <div class="text-center mt-4">
                     <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
                         <i class="fas fa-download me-2"></i>
-<<<<<<< HEAD
                          Mis Trabajos en GitHub 2023
-=======
-                         Mis Trabajos en GitHub
-                         Migos migos
->>>>>>> main
                     </a>
                 </div>
             </div>
